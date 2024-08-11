@@ -1,0 +1,11 @@
+To distribute this script without requiring the user to have Python installed, you can convert it to an executable file using a tool like PyInstaller.
+
+Steps:
+
+1. Install PyInstaller
+
+pip install pyinstaller
+
+2. Generate an Executable:
+
+pyinstaller --onefile keylogger.py
