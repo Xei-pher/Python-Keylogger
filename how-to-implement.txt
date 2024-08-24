@@ -8,4 +8,4 @@ pip install pyinstaller
 
 2. Generate an Executable:
 
-pyinstaller --onefile keylogger.py
+python -m PyInstaller --onefile innocentfile.py

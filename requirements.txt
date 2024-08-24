@@ -2,3 +2,5 @@ pynput
 smtplib
 email.mime.multipart
 email.mime.text
+python-dotenv
+pyinstaller
