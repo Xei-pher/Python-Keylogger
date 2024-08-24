@@ -1,0 +1,35 @@
+Sample Phishing Email for Educational Purposes
+Subject: Urgent: Immediate Action Required for Your Account Security
+
+From: security-team@companyname.com
+
+Dear [User’s Name],
+
+We hope this message finds you well.
+
+We are writing to inform you of an important security update regarding your account. Our security systems have detected unusual activity that may indicate a potential security breach. To ensure your account remains secure, we need you to take immediate action.
+
+What You Need to Do:
+
+Download the Security Update: Click the link below to download the necessary security update. This update will address potential vulnerabilities and protect your account from unauthorized access.
+
+Download Security Update
+
+Run the Update: After downloading the file, double-click it to run the update. This process will only take a few moments and will ensure your account remains secure.
+
+Verify Your Account Information: Once the update is complete, please log in to your account and verify your account information to confirm that no unauthorized changes have been made.
+
+Why This is Important:
+
+Your account security is our top priority. The recent activity detected suggests that your account may be at risk, and immediate action is required to protect your personal information. We appreciate your prompt attention to this matter.
+
+If you have any questions or need further assistance, please contact our support team at support@companyname.com.
+
+Thank you for your cooperation and understanding.
+
+Best regards,
+
+[Your Name]
+Security Team
+Company Name
+[Company Contact Information]
