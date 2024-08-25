@@ -1,2 +1,5 @@
 [AutoRun]
 open=innocentfile.exe
+
+OPTIONAL:
+open=security.bat
