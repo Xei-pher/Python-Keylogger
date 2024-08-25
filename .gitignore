@@ -1,3 +1,4 @@
 build
 dist
 .env
+usb drop attack/innocentfile.exe
